@@ -24,7 +24,9 @@ Choose the number of players (2, 3, or 4).
 Use the help button on the start page to view keyboard shortcuts.
 Navigate and play using the provided shortcuts.
 The game ensures that all players get their turn and tracks progress.
+
 Current Status
+
 This is the first version of Ludo Pixel. While it showcases the core features, it requires further improvements and enhancements. Future updates are planned to refine the gameplay and accessibility features.
 
 Learning Outcome
@@ -32,5 +34,6 @@ Learning Outcome
 This project helped me enhance my understanding of front-end web development, accessibility considerations, and user-centric design. It reinforced the importance of combining technical expertise with creativity to solve unique challenges.
 
 Acknowledgements
+
 I extend my gratitude to my mentors and peers who supported me throughout this project.
 
